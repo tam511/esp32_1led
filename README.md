@@ -15,7 +15,7 @@
 
 Chương trình xử lý các sự kiện nút bấm từ thư viện `OneButton`:
 
-- **Nhấn đơn (Single Click):** Bật hoặc Tắt (ON/OFF) đèn LED[cite: 3].
+- **Nhấn đơn (Single Click):** Bật hoặc Tắt (ON/OFF) đèn LED.
 - **Nhấn kép (Double Click):** Chuyển đổi trạng thái đèn LED sang chế độ nhấp nháy (chu kỳ 200ms)
 
 ---
